@@ -89,9 +89,11 @@
 ## 🐍 Contribution Journey
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/rimuru-OP/rimuru-OP/output/snake.svg" width="100%" alt="Contribution snake animation"/>
-
+  <img
+    src="https://raw.githubusercontent.com/rimuru-OP/rimuru-OP/output/snake.svg"
+    width="100%"
+    alt="GitHub contribution snake animation"
+  />
 </div>
 
 ---

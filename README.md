@@ -42,7 +42,23 @@
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vite" />
 
 </div>
+## 🧩 LeetCode | Problem Solving
 
+<div align="center">
+
+<a href="https://leetcode.com/u/rimuru-OP/">
+  <img src="https://img.shields.io/badge/LeetCode-rimuru--OP-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/rimuru-OP?theme=dark&font=Fira%20Code&ext=heatmap" width="100%" alt="LeetCode statistics" />
+
+<br/>
+
+**Consistency > Intensity. Keep solving. ⚡**
+
+</div>
 ## 📊 GitHub Analytics
 
 <div align="center">

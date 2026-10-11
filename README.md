@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7F00FF,100:00D4FF&height=200&section=header&text=ANNANY%20THAKUR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%7C%20Build%20%7C%20Repeat&descAlignY=58&descSize=18" width="100%"/>
@@ -82,4 +82,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7F00FF&height=100&section=footer" width="100%"/>
 
 </div>
-```
+

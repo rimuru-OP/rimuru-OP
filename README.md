@@ -52,7 +52,7 @@
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/rimuru-OP?theme=dark&font=Fira%20Code&ext=heatmap" width="100%" alt="LeetCode statistics" />
+<img src="https://leetcard.jacoblin.cool/rimuru-OP?theme=dark&font=Fira%20Code&ext=heatmap" width="65%" alt="LeetCode statistics" />
 
 <br/>
 
